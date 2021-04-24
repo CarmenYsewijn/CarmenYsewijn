@@ -10,7 +10,6 @@
 - 🤓 I'm a serial learner
 - 📃 I blog at https://digipersonal.com, writing about what I learn and stuff I think is cool
 - 🐕 I have a small, white, fluffy dog named Dobby - you can occassionally find pictures of her on Twitter [@CarmenYsewijn](https://www.twitter.com/CarmenYsewijn)
-- 
 
 <!--- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
